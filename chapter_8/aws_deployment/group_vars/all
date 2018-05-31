@@ -1,4 +1,4 @@
 aws_region: us-west-1
-cluster_node_ami: ami-29b68a49
+cluster_node_ami: ami-1a7a607a
 ssh_key_name: swarm_key
 swarm_vpc_cidr: "172.31.0.0/16"
